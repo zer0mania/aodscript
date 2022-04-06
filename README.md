@@ -12,29 +12,29 @@ dupe the compatiable items for duping which are (Bloxaide, Fireball, RedLaserScy
 
 input the id and press play in the audio tab under vizualizer
 
-- 1.2.2
+## 1.2.2
 
-optimizations and code clean up and yeahhh
-may be last update who knows
+- optimizations and code clean up and yeahhh
+- may be last update who knows
 
-- 1.2.1
+## 1.2.1
 
-bug fixes
+- bug fixes
 
-- 1.2 
+## 1.2 
 
-visualizer added
-stick Spam
-slock Spam
-moved the ui a bit for easier navigation
+- visualizer added
+- block spam
+- stick spam
+- moved the ui a bit for easier navigation
 
-- 1.1
+## 1.1
 
-rgb glow
-duping items
-network crash
-player tab for adjusting walkspeed and jumppower aswell as hipheight
+- rgb glow
+- duping items
+- network crash
+- player tab for adjusting walkspeed and jumppower aswell as hipheight
 
-- 1.0
-server side audio
-free items
+## 1.0
+- server side audio
+- free items
