@@ -15,7 +15,7 @@ input the id and press play in the audio tab under vizualizer
 # 1.2.2
 
 - optimizations and code clean up and yeahhh
-- may be last update who knows
+- may be last update who knows (is)
 
 ## 1.2.1
 
