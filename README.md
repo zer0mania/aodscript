@@ -1,6 +1,6 @@
-# aodscript
+# aodscript: a script for a now dead game https://www.roblox.com/games/6954094030/Alive-Or-Dead
 
-yes
+source has been published since the game died anyway
 
 ```
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/zer0mania/aodscript/master/aodgui.lua'),true))()
